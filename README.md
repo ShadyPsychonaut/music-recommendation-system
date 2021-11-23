@@ -8,6 +8,6 @@ Million Songs Dataset contains of two files: triplet_file and metadata_file. The
 
 ## There are 3 types of recommendation system:
 
-1. Content-based,\
-2. Collaborative and\ 
+1. Content-based,
+2. Collaborative and 
 3. Popularity
